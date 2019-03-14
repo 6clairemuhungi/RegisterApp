@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RegisterApp</string>
+    <string name="enter_names">Jaza Jina</string>
+    <string name="enter_email">Jaza Barua Pepe</string>
+    <string name="password">Jaza Siri</string>
+    <string name="date_of_birth">Tarehe ya Kuzaliwa</string>
+    <string name="phone">Nambari ya Simu</string>
+    <string name="agree_to_terms_and_conditions">Kubaliana na Masharti ya Sheria</string>
+    <string name="submit">Wasilisha</string>
+    <string name="Male">Mwanaume</string>
+    <string name="Female">Mwanamke</string>
+</resources>
